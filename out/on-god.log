@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.29)  25 NOV 2025 23:06
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.29)  26 NOV 2025 11:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1222,8 +1222,18 @@ LaTeX Font Warning: Font shape `TU/BabelStoneHan(0)/m/it' undefined
 (Font)              using `TU/BabelStoneHan(0)/m/n' instead on input line 8.
 
 
-Underfull \hbox (badness 4454) in paragraph at lines 44--45
-[]|\TU/BabelStoneHan(0)/m/n/9 係 乜 野 導 致 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n/9 `\TU/BabelStoneHan(0)/m/n/9 宇 宙 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n/9  \TU/BabelStoneHan(0)/m/n/9 ﾞ \TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n/9 \TU/BabelStoneHan(0)/m/n/9 ？|  係
+Underfull \hbox (badness 1194) in paragraph at lines 28--29
+[]|\TU/BabelStoneHan(0)/m/n/9 如 果 有 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n/9  \TU/BabelStoneHan(0)/m/n/9 冇 野 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n/9 󰧵\TU/BabelStoneHan(0)/m/n/9 ，| \TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n/9 󱜩 \TU/BabelStoneHan(0)/m/n/9 係 有 樣 野
+ []
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 30--31
+[]|\TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n/9 󱜩 \TU/BabelStoneHan(0)/m/n/9 係，|  如 果 冇 野 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n/9 󰧵 \TU/BabelStoneHan(0)/m/n/9 話，| \TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n/9  \TU/BabelStoneHan(0)/m/n/9 有 野
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 58--59
+[]|\TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n/9  \TU/BabelStoneHan(0)/m/n/9 係 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n/9  \TU/BabelStoneHan(0)/m/n/9 似 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n/9  \TU/BabelStoneHan(0)/m/n/9 話 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n/9 \TU/BabelStoneHan(0)/m/n/9 ，|  係 𠄡 可 以 冇 野
  []
 
 
@@ -1232,7 +1242,7 @@ Overfull \hbox (66.34886pt too wide) in paragraph at lines 5--63
  []
 
 
-LaTeX Warning: Float too large for page by 27.47607pt on input line 64.
+LaTeX Warning: Float too large for page by 13.17604pt on input line 64.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1254,7 +1264,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  32040 strings out of 473832
  776738 string characters out of 5729481
- 1288015 words of memory out of 5000000
+ 1287015 words of memory out of 5000000
  54499 multiletter control sequences out of 15000+600000
  574117 words of font info for 137 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
