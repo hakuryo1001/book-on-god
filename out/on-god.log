@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.29)  26 OCT 2025 15:34
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.29)  25 NOV 2025 22:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1132,15 +1132,15 @@ LaTeX Font Warning: Font shape `TU/BabelStoneHan(0)/b/n' undefined
 LaTeX Font Warning: Font shape `TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n' undefined
 (Font)              using `TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n' instead on input line 1.
 
-)
+
+
+[1
+
+])
 \tf@toc=\write5
 \openout5 = `on-god.toc'.
 
  (./chapters/1.tex
-
-[1
-
-]
 
 [2]
 Chapter 1.
@@ -1169,9 +1169,104 @@ Chapter 2.
 
 [7
 
-]) (out/on-god.ind)
+]) (./chapters/3.tex
 
-[8] (out/on-god.aux)
+[8]
+Chapter 3.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[9
+
+]) (./chapters/4.tex
+
+[10]
+Chapter 4.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[11
+
+]
+Underfull \hbox (badness 3635) in paragraph at lines 123--126
+[]\TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n/10 6. **Natural Law Theory** - **Philosophers**: Thomas
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[12]
+Underfull \hbox (badness 2205) in paragraph at lines 135--138
+[]\TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n/10 9. **Pragmatic Ethics** - **Philosophers**: John Dewey,
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[13]
+Underfull \hbox (badness 2205) in paragraph at lines 178--181
+[]\TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n/10 9. **Pragmatic Ethics** - **Philosophers**: John Dewey,
+ []
+
+) (./chapters/5.tex
+
+[14]
+Chapter 5.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[15
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[16]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[17]) (./chapters/6.tex
+
+LaTeX Font Warning: Font shape `TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/it' undefined
+(Font)              using `TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n' instead on input line 8.
+
+
+LaTeX Font Warning: Font shape `TU/BabelStoneHan(0)/m/it' undefined
+(Font)              using `TU/BabelStoneHan(0)/m/n' instead on input line 8.
+
+
+Underfull \hbox (badness 4454) in paragraph at lines 44--45
+[]|\TU/BabelStoneHan(0)/m/n/9 係 乜 野 導 致 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n/9 `\TU/BabelStoneHan(0)/m/n/9 宇 宙 \TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n/9  \TU/BabelStoneHan(0)/m/n/9 ﾞ \TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n/9 \TU/BabelStoneHan(0)/m/n/9 ？|  係
+ []
+
+
+Overfull \hbox (66.34886pt too wide) in paragraph at lines 5--63
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 27.47607pt on input line 64.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (out/on-god.ind)
+
+[18]
+
+[19] (out/on-god.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2022/08/05>
@@ -1182,12 +1277,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 31819 strings out of 473832
- 764790 string characters out of 5729481
- 1285013 words of memory out of 5000000
- 54303 multiletter control sequences out of 15000+600000
- 570983 words of font info for 121 fonts, out of 8000000 for 9000
+ 32040 strings out of 473832
+ 776738 string characters out of 5729481
+ 1288015 words of memory out of 5000000
+ 54499 multiletter control sequences out of 15000+600000
+ 574117 words of font info for 137 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 121i,12n,123p,624b,587s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 121i,12n,123p,1230b,587s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/on-god.pdf (8 pages).
+Output written on out/on-god.pdf (19 pages).
