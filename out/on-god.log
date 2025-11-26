@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.29)  25 NOV 2025 22:01
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.29)  25 NOV 2025 23:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1191,53 +1191,28 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [11
 
-]
-Underfull \hbox (badness 3635) in paragraph at lines 123--126
-[]\TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n/10 6. **Natural Law Theory** - **Philosophers**: Thomas
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+]) (./chapters/5.tex
 
 [12]
-Underfull \hbox (badness 2205) in paragraph at lines 135--138
-[]\TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n/10 9. **Pragmatic Ethics** - **Philosophers**: John Dewey,
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[13]
-Underfull \hbox (badness 2205) in paragraph at lines 178--181
-[]\TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n/10 9. **Pragmatic Ethics** - **Philosophers**: John Dewey,
- []
-
-) (./chapters/5.tex
-
-[14]
 Chapter 5.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[15
+[13
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[16]
+[14]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[17]) (./chapters/6.tex
+[15]) (./chapters/6.tex
 
 LaTeX Font Warning: Font shape `TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/it' undefined
 (Font)              using `TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n' instead on input line 8.
@@ -1264,9 +1239,9 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 ) (out/on-god.ind)
 
-[18]
+[16]
 
-[19] (out/on-god.aux)
+[17] (out/on-god.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2022/08/05>
@@ -1285,4 +1260,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  121i,12n,123p,1230b,587s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/on-god.pdf (19 pages).
+Output written on out/on-god.pdf (17 pages).
